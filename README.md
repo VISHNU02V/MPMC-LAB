@@ -1,5 +1,7 @@
 <h2> MPMC AND SS LAB </h2>
-<p> Microprocessor and Microcontroller Lab , System Software </p>
-
+<body>
+  <p> Microprocessor and Microcontroller Lab , System Software </p>
+</body>
   
-<h2> SYLLABUS OF BOTH </h2>
+<h3> SYLLABUS OF BOTH </h3>
+
