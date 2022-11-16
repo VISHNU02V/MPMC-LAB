@@ -3,9 +3,9 @@
 <h3> SYLLABUS OF BOTH </h3>
 SYLLABUS OF SS
 <p> exp1 &ensp; : &ensp; Simulate the following non-preemptive CPU scheduling algorithms to find turnaround time and waiting time.<br>
-          &emsp; a)FCFS <br>
-          &emsp; b)SJF <br>
-          &emsp; c)Round Robin <br>
-          &emsp; d)Priority <br>
+          &emsp;&emsp; a)FCFS <br>
+          &emsp;&emsp; b)SJF <br>
+          &emsp;&emsp; c)Round Robin <br>
+          &emsp;&emsp; d)Priority <br>
 </p>
 
