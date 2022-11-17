@@ -2,9 +2,11 @@
 <p> Microprocessor and Microcontroller Lab , System Software </p>
 <h3> SYLLABUS OF BOTH </h3>
 SYLLABUS OF SS
-&ensp;
-&ensp;
-&ensp;
+<p>
+&emsp;
+&emsp;
+&emsp;
+</p>
 <p> exp1 &ensp; : &ensp; Simulate the following non-preemptive CPU scheduling algorithms to find turnaround time and waiting time.<br>
           &emsp;&emsp; a)FCFS <br>
           &emsp;&emsp; b)SJF <br>
